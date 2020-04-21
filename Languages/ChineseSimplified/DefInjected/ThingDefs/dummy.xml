@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <Dummy_Straw.label>稻草人</Dummy_Straw.label>
+  <Dummy_Straw.description>一个用牧草制成的假人。可以用来吓跑小鸟，也可以用来欺骗愚蠢的袭击者。极度易燃！</Dummy_Straw.description>
+  <Dummy_Human.label>尸体假人</Dummy_Human.label>
+  <Dummy_Human.description>一个被做成假人的倒霉鬼，可以吸引敌方的火力。</Dummy_Human.description>
+  <Dummy_Regular.label>假人</Dummy_Regular.label>
+  <Dummy_Regular.description>一个可以吸引敌人火力的假人。看起来可能一点都不像你的居民，但敌人的眼力似乎没有好到可以分辨出来。</Dummy_Regular.description>
+</LanguageData>
