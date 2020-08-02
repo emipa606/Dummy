@@ -1,9 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <Dummy_Straw.label>scarecrow</Dummy_Straw.label>
-  <Dummy_Straw.description>A straw-made dummy which can scarce birds, and bird-brain raiders. Highly flammable!</Dummy_Straw.description>
-  <Dummy_Human.label>corpse dummy</Dummy_Human.label>
-  <Dummy_Human.description>An unlucky corpse made into a dummy to attract enemies' firepower.</Dummy_Human.description>
-  <Dummy_Regular.label>dummy</Dummy_Regular.label>
-  <Dummy_Regular.description>A dummy made to attract hostile firepower. Might not really look like your pawns, but enough to fool raiders.</Dummy_Regular.description>
+  <!--<Dummy_Straw.label>scarecrow</Dummy_Straw.label>-->
+  <!--<Dummy_Straw.description>A straw-made dummy which can scarce birds, and bird-brain raiders. Highly flammable!</Dummy_Straw.description>-->
+  <!--<Dummy_Human.label>corpse dummy</Dummy_Human.label>-->
+  <!--<Dummy_Human.description>An unlucky corpse made into a dummy to attract enemies' firepower.</Dummy_Human.description>-->
+  <!--<Dummy_Regular.label>dummy</Dummy_Regular.label>-->
+  <!--<Dummy_Regular.description>A dummy made to attract hostile firepower. Might not really look like your pawns, but enough to fool raiders.</Dummy_Regular.description>-->
+
 </LanguageData>
