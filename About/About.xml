@@ -11,18 +11,21 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>Update of ianchen31s mod for RimWorld 1.1
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of ianchen31s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1558145672
 
-[img]https://i.imgur.com/GYswkZ7.png[/img]
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
-Support-chat:
-https://invite.gg/mlie
-
-Non-steam version:
-https://github.com/emipa606/Dummy
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/Dummy][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+
 The mod adds three types of different dummies.
 Since raiders are just too dumb dumb to distinguish dummies from your pawns, dummies can be used to attact hostile firepower, or just simply delaying their arrival.
 This does not mean that enemies will always attack the dummies first, just giving them another target to aim at.
@@ -45,6 +48,6 @@ I think that there should be no balancing issue, since the mod is made from imba
 
 Languages:
 English
-????
-????</description>
+繁體中文
+简体中文</description>
 </ModMetaData>
