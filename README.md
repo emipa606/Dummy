@@ -1,40 +1,31 @@
 # Dummy
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of ianchen31s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1558145672
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/Dummy]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 The mod adds three types of different dummies.
 Since raiders are just too dumb dumb to distinguish dummies from your pawns, dummies can be used to attact hostile firepower, or just simply delaying their arrival.
 This does not mean that enemies will always attack the dummies first, just giving them another target to aim at.
-Note that dummies can really break difficulty easily if intended. Just......don&apos;t abuse it.
+Note that dummies can really break difficulty easily if intended. Just......don't abuse it.
 
 --------------------------------------------Dummy description------------------------------------
 
 Scarecrow (20hp)
-A dummy used to scare birds in the past. Since there&apos;s no birds in rimworld, it can only scare other bird-brain creatures, like raiders. A relatively cheap dummy, but really fragile, and is highly flammable.
+A dummy used to scare birds in the past. Since there's no birds in rimworld, it can only scare other bird-brain creatures, like raiders. A relatively cheap dummy, but really fragile, and is highly flammable.
 
 Corpse dummy (60hp)
-A way to put dead raiders to good use. You&apos;ll need to make these at butcher spot or table. Note that corspe dummies are extremely ugly for your pawns.
+A way to put dead raiders to good use. You'll need to make these at butcher spot or table. Note that corspe dummies are extremely ugly for your pawns.
 
 Dummy (can be made by wood, stone or metal, steel-made dummy hp:100)
-A dummy that looks nothing like your pawns, since it has arms and legs. The raiders can&apos;t tell, though.
+A dummy that looks nothing like your pawns, since it has arms and legs. The raiders can't tell, though.
 
 ----------------------------------------------------------------------------------------------------------
 
@@ -46,7 +37,7 @@ English
 简体中文
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -56,6 +47,7 @@ English
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
