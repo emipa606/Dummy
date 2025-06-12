@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 972230257
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebd6da13584d657cc99ffcffe3453d23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ebd6da13584d657cc99ffcffe3453d23
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/ScarecrowIcon.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Dummy.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Scarecrow/ScarecrowIcon.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Dummy_HumanIcon.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Dummy_Human/Dummy_Human_L.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Scarecrow/Scarecrow_A.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Scarecrow/Scarecrow_B.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Dummy_Human/Dummy_Human_C.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Dummy_Human/Dummy_Human_E.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Dummy_Human/Dummy_Human_H.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Dummy_Human/Dummy_Human_D.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Blank.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Dummy_Human/Dummy_Human_F.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Dummy_Human/Dummy_Human_B.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Dummy_Human/Dummy_Human_K.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Dummy_Human/Dummy_HumanIcon.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/DummyIcon.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Dummy_Human/Dummy_Human_J.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Dummy_Human/Dummy_Human_I.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Scarecrow/Scarecrow_D.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Scarecrow/Scarecrow_F.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Scarecrow/Scarecrow_C.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Dummy_Human/Dummy_Human_A.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Scarecrow/Scarecrow_E.png
+- Assets/Data/Mlie.Dummy/Textures/Things/Building/Dummy_Human/Dummy_Human_G.png
+Dependencies: []

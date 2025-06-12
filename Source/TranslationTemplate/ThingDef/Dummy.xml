@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: dummy attack -->
+  <Bullet_Dummy.label>dummy attack</Bullet_Dummy.label>
+  <!-- EN: corpse dummy -->
+  <Dummy_Human.label>corpse dummy</Dummy_Human.label>
+  <!-- EN: An unlucky corpse made into a dummy to attract enemies' firepower. -->
+  <Dummy_Human.description>An unlucky corpse made into a dummy to attract enemies' firepower.</Dummy_Human.description>
+  <!-- EN: dummy -->
+  <Dummy_Regular.label>dummy</Dummy_Regular.label>
+  <!-- EN: A dummy made to attract hostile firepower. Might not really look like your pawns, but enough to fool raiders. -->
+  <Dummy_Regular.description>A dummy made to attract hostile firepower. Might not really look like your pawns, but enough to fool raiders.</Dummy_Regular.description>
+  <!-- EN: scarecrow -->
+  <Dummy_Straw.label>scarecrow</Dummy_Straw.label>
+  <!-- EN: A straw-made dummy which can scarce birds, and bird-brain raiders. Highly flammable! -->
+  <Dummy_Straw.description>A straw-made dummy which can scarce birds, and bird-brain raiders. Highly flammable!</Dummy_Straw.description>
+  <!-- EN: dummy gun -->
+  <Gun_Dummy.label>dummy gun</Gun_Dummy.label>
+  <!-- EN: A dummy that fools fools. -->
+  <Gun_Dummy.description>A dummy that fools fools.</Gun_Dummy.description>
+  <!-- EN: dummy gun -->
+  <Gun_Dummy.verbs.Verb_Shoot.label>dummy gun</Gun_Dummy.verbs.Verb_Shoot.label>
+</LanguageData>

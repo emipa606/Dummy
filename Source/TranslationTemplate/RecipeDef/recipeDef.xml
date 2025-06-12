@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make corpse dummy -->
+  <MakeCorpseDummy.label>make corpse dummy</MakeCorpseDummy.label>
+  <!-- EN: Make a dummy with human corpse. -->
+  <MakeCorpseDummy.description>Make a dummy with human corpse.</MakeCorpseDummy.description>
+  <!-- EN: Make corpse dummy. -->
+  <MakeCorpseDummy.jobString>Make corpse dummy.</MakeCorpseDummy.jobString>
+</LanguageData>
